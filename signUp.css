@@ -1,0 +1,52 @@
+.W{
+    font-weight: 800;
+    font-size: 60px;
+
+}
+.hey{
+    text-decoration: underline;
+}
+.gol{
+    width: 13cm;
+    height:  20cm;
+    display: grid;
+   background-color: #ededed;
+   border-radius: 20px;
+}
+.okay{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 100%;
+    color: #bfbfbf;
+    outline: none;
+}
+label{
+    font-size: 20px;
+}
+.btns{
+    width: 100%;
+    text-align: center;
+}
+.forget{
+    text-decoration: underline;
+    color: #434343;
+    margin-top: 0.3cm;
+
+}
+.btn-light:hover {
+    background-color: #f0f0f0;
+    color: #007bff;
+    border: 1px solid #007bff;
+}
+.imk{
+    filter: drop-shadow(0 50px 20px #0009);
+}
+
+.btn-light i {
+    transition: transform 0.3s ease;
+}
+
+.btn-light:hover i {
+    transform: scale(1.9);
+}
